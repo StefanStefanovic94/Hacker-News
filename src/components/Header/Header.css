@@ -1,0 +1,10 @@
+.Header {
+  background-color: #96bdc6;
+  height: 50px;
+}
+
+.Header__text {
+  margin: 0 auto;
+  color: white;
+  text-align: center;
+}
